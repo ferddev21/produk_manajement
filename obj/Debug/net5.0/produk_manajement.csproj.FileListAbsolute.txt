@@ -1,0 +1,16 @@
+/home/ferddev21/project/metrodata/net/produk_manajement/bin/Debug/net5.0/produk_manajement
+/home/ferddev21/project/metrodata/net/produk_manajement/bin/Debug/net5.0/produk_manajement.deps.json
+/home/ferddev21/project/metrodata/net/produk_manajement/bin/Debug/net5.0/produk_manajement.runtimeconfig.json
+/home/ferddev21/project/metrodata/net/produk_manajement/bin/Debug/net5.0/produk_manajement.runtimeconfig.dev.json
+/home/ferddev21/project/metrodata/net/produk_manajement/bin/Debug/net5.0/produk_manajement.dll
+/home/ferddev21/project/metrodata/net/produk_manajement/bin/Debug/net5.0/ref/produk_manajement.dll
+/home/ferddev21/project/metrodata/net/produk_manajement/bin/Debug/net5.0/produk_manajement.pdb
+/home/ferddev21/project/metrodata/net/produk_manajement/obj/Debug/net5.0/produk_manajement.csproj.AssemblyReference.cache
+/home/ferddev21/project/metrodata/net/produk_manajement/obj/Debug/net5.0/produk_manajement.GeneratedMSBuildEditorConfig.editorconfig
+/home/ferddev21/project/metrodata/net/produk_manajement/obj/Debug/net5.0/produk_manajement.AssemblyInfoInputs.cache
+/home/ferddev21/project/metrodata/net/produk_manajement/obj/Debug/net5.0/produk_manajement.AssemblyInfo.cs
+/home/ferddev21/project/metrodata/net/produk_manajement/obj/Debug/net5.0/produk_manajement.csproj.CoreCompileInputs.cache
+/home/ferddev21/project/metrodata/net/produk_manajement/obj/Debug/net5.0/produk_manajement.dll
+/home/ferddev21/project/metrodata/net/produk_manajement/obj/Debug/net5.0/ref/produk_manajement.dll
+/home/ferddev21/project/metrodata/net/produk_manajement/obj/Debug/net5.0/produk_manajement.pdb
+/home/ferddev21/project/metrodata/net/produk_manajement/obj/Debug/net5.0/produk_manajement.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "produk_manajement/1.0.0": {
+        "runtime": {
+          "produk_manajement.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "produk_manajement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
